@@ -2,14 +2,16 @@
 
 
 # AT TOP IN # normal dependencies:
-remember not to use 
+* remember not to use <br>
+// Start
 ```yaml
 flutter:
   generate: true   # this line
 
 ```
+// End
 
-
+# Start Journey 
 
 ```YAML
 
