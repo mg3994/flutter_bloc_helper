@@ -54,5 +54,9 @@ flutter pub run build_runner watch --delete-conflicting-outputs
 flutter_intl:
   enabled: true
   class_name: AppLocalizations
+  main_locale: en
+  arb_dir: lib/l10n
+  output_dir: lib/l10n
+  use_deferred_loading: true
 
 ```
